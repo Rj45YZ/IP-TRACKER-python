@@ -1,0 +1,6 @@
+pip install urllib
+pip install json
+pip install os
+pip install sys
+pip install colorama
+pip install urllib2
